@@ -1,4 +1,10 @@
-### Hi there 👋
+###                                                       Hi👋, I'm Omar Abd El-Rahman
+
+
+A passionate software developer from Egypt I Graduated from Faculty of Computers And Artificial Intelligence— BSc. Information technology, Cairo university (2018- 2022) with Good grade.Seeking a job in the field of “technology” in a reputable organization where gain experience. Eager to learn every day and gain more experience in different fields related to technology
+
+📫 How to reach me omarabdelrahman180@gmail.com
+
 
 <!--
 **oa180/oa180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
